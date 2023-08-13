@@ -27,4 +27,17 @@ body {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
+
+  .gradient-hero {
+    background: linear-gradient(
+      to left,
+      #144ee3 0%,
+      #eb568e 18.75%,
+      #a353aa 64.06%,
+      #144ee3 100%
+    );
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
 }

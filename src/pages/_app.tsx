@@ -14,7 +14,7 @@ export default function App({ Component, pageProps }: AppProps) {
         }
       `}</style>
       <Header />
-      <main>
+      <main className="mx-auto max-w-screen-2xl">
         <Component {...pageProps} />
       </main>
     </>
