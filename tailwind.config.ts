@@ -14,6 +14,9 @@ const config: Config = {
       'brand-accent-secondary': '#144EE3',
       'brand-lite': '#C9CED6',
     },
+    boxShadow: {
+      '3xl': '10px 9px 22px 0px rgba(20, 78, 227, 0.38)',
+    },
   },
   plugins: [],
 };
